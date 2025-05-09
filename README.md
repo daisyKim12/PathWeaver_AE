@@ -25,7 +25,7 @@ Install dependencies via Conda:
 
 ```bash
 conda env create -f environment.yaml
-conda activate osdi_24
+conda activate pathweaver
 ```
 
 ### 1. Build PathWeaver Binary
