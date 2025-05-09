@@ -1,4 +1,4 @@
-# PathWeaver_AE_private
+# PathWeaver_AE
 **A High-Throughput Multi-GPU System for Graph-Based Approximate Nearest Neighbor Search**
 
 ## Hardware Requirements
