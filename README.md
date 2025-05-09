@@ -3,11 +3,13 @@
 
 ## Key Files
 
-| File Path                               | Description                                              |
-| --------------------------------------- | -------------------------------------------------------- |
-| `./pathweaver/csrc/pathweaver.cu`       | CUDA kernel implementation for PathWeaver's graph search |
-| `./pathweaver/single_pathweaver_one.py` | Script to run PathWeaver on a **single GPU**             |
-| `./pathweaver/multi_pathweaver_all.py`  | Script to run PathWeaver on **multiple GPUs**            |
+| File Path                               | Description                                                        |
+| --------------------------------------- | ------------------------------------------------------------------ |
+| `./pathweaver/csrc/pathweaver.cu`       | CUDA kernel implementation for PathWeaver's graph search           |
+| `./pathweaver/single_pathweaver_one.py` | Python file to run PathWeaver on a **single GPU**                  |
+| `./pathweaver/single_pathweaver_all.sh` | Script to run PathWeaver on a **single GPU** with parameters       |
+| `./pathweaver/multi_pathweaver_one.py`  | Python file to run PathWeaver on **multiple GPUs**                 |
+| `./pathweaver/multi_pathweaver_all.sh`  | Script to run PathWeaver on **multiple GPUs** with parameters      |
 
 ## Hardware Requirements
 * Approximately **250 GB** of free disk space
