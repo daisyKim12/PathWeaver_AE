@@ -1,6 +1,14 @@
 # PathWeaver_AE
 **A High-Throughput Multi-GPU System for Graph-Based Approximate Nearest Neighbor Search**
 
+## Key Files
+
+| File Path                               | Description                                              |
+| --------------------------------------- | -------------------------------------------------------- |
+| `./pathweaver/csrc/pathweaver.cu`       | CUDA kernel implementation for PathWeaver's graph search |
+| `./pathweaver/single_pathweaver_one.py` | Script to run PathWeaver on a **single GPU**             |
+| `./pathweaver/multi_pathweaver_all.py`  | Script to run PathWeaver on **multiple GPUs**            |
+
 ## Hardware Requirements
 * Approximately **250 GB** of free disk space
 * **4 GPUs** with at least **48 GB** of device memory
