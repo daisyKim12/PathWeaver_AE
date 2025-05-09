@@ -1,10 +1,3 @@
-/*
-*   All together
-*   1. Threshold
-*   2. Direction
-*   3. Random
-*/
-
 #include <pybind11/pybind11.h>
 #include <torch/extension.h>
 
