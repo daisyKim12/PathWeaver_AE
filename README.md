@@ -14,7 +14,7 @@
 ## Hardware Requirements
 * Approximately **250 GB** of free disk space
 * **4 GPUs** with at least **48 GB** of device memory
-* **NVLink** connection across all 4 GPUs (NVLink bridge is supported)
+* **NVLink** bridge across GPUs
 * **CUDA 12.1**
 
 ## Steps to Reproduce
