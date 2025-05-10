@@ -46,3 +46,7 @@ bash single_pathweaver_all.sh
 ```bash
 bash multi_pathweaver_all.sh
 ```
+
+## Acknowledgment
+
+This project is built upon and extends the **CAGRA method** from the [RAPIDS cuVS](https://github.com/rapidsai/cuvs) library, an efficient GPU-accelerated framework for vector search.
