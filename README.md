@@ -1,6 +1,8 @@
 # PathWeaver_AE
 **A High-Throughput Multi-GPU System for Graph-Based Approximate Nearest Neighbor Search**
 
+> A Zenodo artifact for Pathweaver is available at [Zenodo](https://zenodo.org/records/15460894).
+
 ## Key Files
 
 | File Path                               | Description                                                        |
