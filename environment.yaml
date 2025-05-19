@@ -156,7 +156,6 @@ dependencies:
       - cuda-python==12.8.0
       - cupy-cuda12x==13.4.1
       - cuvs-cu12==25.2.1
-      - dense-matmul-cuda==0.0.0
       - fastrlock==0.8.3
       - fsspec==2024.9.0
       - libcuvs-cu12==25.2.1
@@ -172,5 +171,4 @@ dependencies:
       - pylibraft-cu12==25.2.0
       - pymetis==2023.1.1
       - rmm-cu12==25.2.0
-      - sparse-matmul-cuda==0.0.0
       - termcolor==2.5.0
